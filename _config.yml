@@ -18,7 +18,7 @@ facebook:
   admins: # Facebook id
   publisher: # Facebook Page ID
 
-logo: #/assets/icons/512.png
+logo: /assets/images/nugunabooks_200x50.png #/assets/icons/512.png
 social:
   name: #Your name
   links:
